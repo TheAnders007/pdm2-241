@@ -1,0 +1,3 @@
+- pip install fastapi uvicorn
+- python setup_db.py
+- uvicorn main:app --reload
