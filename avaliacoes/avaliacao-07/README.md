@@ -1,16 +1,19 @@
-# avaliacao07
+# Avaliação-07
 
-A new Flutter project.
+*Segue a Avaliação 07 da disciplina Programação de Dispositivos Móveis 2*
 
-## Getting Started
+* Estudante: Anderson Maia Santos
 
-This project is a starting point for a Flutter application.
+* Professor: Ricardo Duarte Taveira
+  
+### ***Dupla:** [Anderson Maia Santos](https://github.com/TheAnders007) e [Sure Rocha Bezerra](https://github.com/surerocha)*
 
-A few resources to get you started if this is your first Flutter project:
+*Comando da avaliação:*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+> Executar o codelab em https://docs.flutter.dev/get-started/codelab e filmar a execução do Programa.
+>  
+> Dê o seu nome(dupla) à barra da aplicação. 
+>
+> Criar no repositório do Github para colocar o código e o filme, e postar o link no Google Classroom.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Clique aqui para acessar o link da gravação: 📽️ [Gravação da Avaliação 07](https://youtu.be/6_2Sn8fDw6g)*
